@@ -1,0 +1,7 @@
+fastapi==0.65.1
+python-dotenv==0.17.1
+prometheus-fastapi-instrumentator==5.7.1
+uvicorn==0.14.0
+asyncio==3.4.3
+httpx==0.20.0
+pillow==2.2.1
